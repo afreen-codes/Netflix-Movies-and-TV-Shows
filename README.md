@@ -119,3 +119,9 @@ Kaggle "Netflix Movies and TV Shows" dataset (`netflix_titles.csv`), a mid-2021 
 
 ## Source
 Kaggle - "Netflix Movies and TV Shows" dataset (`netflix_titles.csv`).
+## Tools Used
+
+- IBM Cognos Analytics
+- Microsoft Excel
+- Kaggle Dataset
+- GitHub
